@@ -1,0 +1,43 @@
+{
+    "data":[{
+        "id":1,
+        "Name":"MouliRamadasu",
+        "Mobile_no":"9666966855",
+        "Company":"Ojas-it.Com",
+        "address":"Ramachandupuram ,Ap,Egdt,533255",
+        "img":"https://avatars.dicebear.com/v2/avataaars/Bret.svg?options[mood][]=happy"
+    },
+    {
+        "id":2,
+        "Name":"Srinuvasu",
+        "Mobile_no":"9640208444",
+        "Company":"Ibm-it.com",
+        "address":"Kadapa ,Ap,Egdt,533000",
+        "img":"https://avatars.dicebear.com/v2/avataaars/Moriah.Stanton.svg?options[mood][]=happy"
+    },
+    {
+        "id":3,
+        "Name":"SureshKumar",
+        "Mobile_no":"9610347866",
+        "Company":"Ojas-it.Com",
+        "address":"Viazg ,Ap,Egdt,500030",
+        "img":"https://avatars.dicebear.com/v2/avataaars/Delphine.svg?options[mood][]=happy"
+    },
+    {
+        "id":4,
+        "Name":"SivaKumar mark",
+        "Mobile_no":"9679455778",
+        "Company":"Ojas-it.Com",
+        "address":"Ramachandupuram ,Ap,Egdt,533255",
+        "img":"https://avatars.dicebear.com/v2/avataaars/Leopoldo_Corkery.svg?options[mood][]=happy"
+    },
+    {
+        "id":5,
+        "Name":"yasuRajukaya",
+        "Mobile_no":"9666223552",
+        "Company":"Ojas-it.Com",
+        "address":"Ramachandupuram ,Ap,Egdt,533255",
+        "img":"https://avatars.dicebear.com/v2/avataaars/Kamren.svg?options[mood][]=happy"
+    }
+]
+}
